@@ -107,7 +107,7 @@ class MainActivityActivity : AppCompatActivity() {
         }
 
 
-fun validateLogin() {
+fun validatenumber() {
     var Number=etnumber.text.toString()
     var =Number.text.toString()
     if(Number.isBlank()){
